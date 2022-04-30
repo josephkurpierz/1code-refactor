@@ -1,6 +1,10 @@
 # Horiseon - Module 1 challenge
 A website focused on increasing your visibility, reputation and social media presence through lead generation, brand awareness, and cost managment.
 
+This site was built using [josephkurpierz GitHub Pages](https://josephkurpierz.github.io/1code-refactor/)
+
+![Screenshot of main website](/assets/images/Screenshot.png)
+
 ***Table of contents***
 * [What I started with](#What-I-started-with)
 * [How I modified the files](#How-I-modified-the-files)
