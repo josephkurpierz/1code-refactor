@@ -2,6 +2,7 @@
 A website focused on increasing your visibility, reputation and social media presence through lead generation, brand awareness, and cost managment.
 
 This site was built using [josephkurpierz GitHub Pages](https://josephkurpierz.github.io/1code-refactor/)
+hosted on github repository [1code-refactor](https://github.com/josephkurpierz/1code-refactor)
 
 ![Screenshot of main website](/assets/images/Screenshot.png)
 
