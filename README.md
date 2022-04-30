@@ -1,6 +1,13 @@
 # Horiseon - Module 1 challenge
 A website focused on increasing your visibility, reputation and social media presence through lead generation, brand awareness, and cost managment.
 
+***Table of contents***
+* [What I started with](#What-I-started-with)
+* [How I modified the files](#How-I-modified-the-files)
+* [What I learned](#what-i-learned)
+* [What I struggled with](#what-i-struggled-with)
+* [Why I did it](#why-i-did-it)
+
 ## What I started with 
 
 A pre-existing website that appeared to be in working order with appropriately formatted HTML and CSS.  
@@ -34,4 +41,8 @@ In addition to organizing and renaming the elements in html and consolidating co
 
 1. My biggest hurdle was/is the online-reputation-managment.  I tried to mimic the run-buddy trainers to capture the three part organization with orientation of left, right, left.  If I could have successfully performed that, I would have reduced even more CSS because I would not have needed the `float: right` to orient the middle article to the right and all three articles would use the same code just by altering the order of the img in the html.
 2. I have also been struggling with the web pages looking different depending on screen size.  If I have a split screen it renders differently than if I go full screen.  It definitely adds some extra navigation as I only have a single monitor.
-3. Writing this README is also a struggle.  I am taking a risk by writing it as a "what did Joe do?" rather than writing it about the application.
+3. Writing this README is also a struggle.  I am taking a risk by writing it as a "what did Joe do?" rather than writing it as a what "What is Horiseon? and What does it do?".
+
+## Why I did it
+
+I worked on this Horiseon web page to practice html and CSS.  They are, at this point, foreign languages to me.  So practicing this will help me gain confidence and efficiency writing simple code.  Building this fundamental foundation is incredibly important to me as I want to be able to continually build upon it.  Onwards and upwards sombody once said.
